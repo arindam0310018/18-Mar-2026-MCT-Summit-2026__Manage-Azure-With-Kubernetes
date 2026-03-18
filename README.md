@@ -12,9 +12,11 @@ List follows below:-
 
 | # | Topic Name  | Link Details |
 | :---------: | :--------- | :--------- |
-| 1. | __My Speaker Presentation Slide Deck__ | - |
-| 2. | __Crossplane Kickstart Documentation__ | - |
-| 3. | __Crossplane Recording__ | - |
-| 4. | __Crossplane Series__ | - |
+| 1. | __My Speaker Presentation Slide Deck__ | https://github.com/arindam0310018/18-Mar-2026-MCT-Summit-2026__Manage-Azure-With-Kubernetes/tree/main/MCT-NA-2026-Presentation |
+| 2. | __Crossplane Kickstart Documentation__ | https://github.com/arindam0310018/09-Dec-2025-Festive-Calendar-2025__Crossplane-powered-Platform-Engineering |
+| 3. | __Crossplane Recording__ | https://www.youtube.com/watch?v=9DMBOyswyLk |
+| 4. | __Crossplane Series__ | https://github.com/arindam0310018/20-May-2025-Training-Course__Crossplane |
 
+__Hope You Enjoyed the Session!!!__
 
+__Stay Safe | Keep Learning | Spread Knowledge__
