@@ -16,6 +16,9 @@ List follows below:-
 | 2. | __Crossplane Kickstart Documentation__ | https://github.com/arindam0310018/09-Dec-2025-Festive-Calendar-2025__Crossplane-powered-Platform-Engineering |
 | 3. | __Crossplane Recording__ | https://www.youtube.com/watch?v=9DMBOyswyLk |
 | 4. | __Crossplane Series__ | https://github.com/arindam0310018/20-May-2025-Training-Course__Crossplane |
+| 5. | __Azure Service Operator Documentation__ | https://azure.github.io/azure-service-operator/ |
+| 6. | __Azure Service Operator Github Documentation__ | https://github.com/Azure/azure-service-operator |
+
 
 __Hope You Enjoyed the Session!!!__
 
