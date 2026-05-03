@@ -5,7 +5,6 @@
 | <img src="Images/11-AM-NAMCT-Speaker.jpg"> |
 | <img src="Images/12-AM-NAMCT-Speaker.jpg"> |
 | <img src="Images/13-AM-NAMCT-Speaker.jpg"> |
-| <img src="Images/14-AM-NAMCT-Speaker.jpg"> |
 
 | What's Inside This Repository:- |
 | --------- |
